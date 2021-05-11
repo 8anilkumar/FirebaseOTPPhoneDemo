@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "197496431140",
+    "project_id": "fir-otpphonedemo",
+    "storage_bucket": "fir-otpphonedemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197496431140:android:0066e947b9e09c471f2eb1",
+        "android_client_info": {
+          "package_name": "com.anil.firebaseotpphonedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197496431140-rm0gsmdmd4b8fsdcu6l6a0a0kgbi999h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtGN_mV_uecYFWqavmcLt0W4gC6XvPSYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197496431140-rm0gsmdmd4b8fsdcu6l6a0a0kgbi999h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
